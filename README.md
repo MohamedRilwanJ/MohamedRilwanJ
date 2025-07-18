@@ -31,14 +31,8 @@
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&style=for-the-badge" alt="Instagram" />
   </a>
 
-  <!-- YouTube -->
-  <a href="https://www.youtube.com/c/felipeeliawp" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?logo=youtube&style=for-the-badge" alt="YouTube" />
-  </a>
 </p>
 
-
-Alter full code 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
