@@ -10,9 +10,9 @@
 <h4>My Tech Partner: <a href="https://github.com/niranjan20rc"><span>Niranjan<span></a></h4>
 - 🔭 I’m currently working on React.
 - 👯 I’m looking to collaborate with live projects.
-- 💬 Ask me about **Java, Figma, React and Tailwind CSS**
-- 📫 How to reach me **mohamedrilwanjamees@gmail.com**
-- ⚡ Fun fact **[ I ❤️ Travelling ]**
+- 💬 Ask me about Java, Figma, React and Tailwind CSS
+- 📫 How to reach me mohamedrilwanjamees@gmail.com
+- ⚡ Fun fact [ I ❤️ Travelling  ]**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center" style="display: flex; align-items:center;justify-content: center; gap: 10px; flex-wrap: wrap;">
