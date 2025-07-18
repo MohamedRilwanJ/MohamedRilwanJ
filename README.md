@@ -31,7 +31,7 @@
   </a>
 
 </p>
-
+## 🛠️ Tech Stack
 <p align="center" style="display: flex; justify-content: center; gap: 12px;">
   <img src="https://skillicons.dev/icons?i=html&theme=light" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=css&theme=light" alt="CSS" />
