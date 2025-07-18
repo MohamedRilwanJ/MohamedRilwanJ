@@ -32,8 +32,14 @@
 
 </p>
 
-
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,figma,react,java,mysql,netlify,vercel&theme=light" alt="Tech Stack Icons"/>
+<p align="center" style="display: flex; justify-content: center; gap: 12px;">
+  <img src="https://skillicons.dev/icons?i=html&theme=light" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css&theme=light" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=js&theme=light" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=figma&theme=light" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=react&theme=light" alt="React" />
+  <img src="https://skillicons.dev/icons?i=java&theme=light" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=netlify&theme=light" alt="Netlify" />
+  <img src="https://skillicons.dev/icons?i=vercel&theme=light" alt="Vercel" />
 </p>
