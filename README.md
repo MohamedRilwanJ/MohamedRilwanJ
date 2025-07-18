@@ -9,14 +9,12 @@
 - ⚡ Fun fact **[ I ❤️ Travelling ]**
 
 ### Blogs posts
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 	<a href="https://www.linkedin.com/in/jmohamedrilwan/" target="blank">
 		</a> &nbsp;
 	<a href="[https://instagram.com/felipe.elia](https://www.instagram.com/_____.rillu._?igsh=MWhrN2QzZXQzc3hkNw==)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="felipe.elia" height="30" /></a>&nbsp;
-	<a href="https://www.youtube.com/c/felipeeliawp" target="blank"></a>&nbsp;
+	<a href="https://www.youtube.com/c/felipeeliawp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="felipeeliawp" height="30" /></a>&nbsp;
 	<a href="https://leetcode.com/u/Mohamed_Rilwan_J/" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="Mohamed Rilwan | LeetCode" height="30" />
 </a>&nbsp;
@@ -25,6 +23,9 @@
 </a>&nbsp;
 
 </p>
+
+
+Alter full code 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
