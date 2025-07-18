@@ -1,7 +1,8 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=%20Creative Developer&fontColor=FFFFFF&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=%20Rilu&fontColor=FFFFFF&animation=fadeIn" alt="header"/>
 </p>
+
 
 <h1>Hi 👋, I'm Mohamed Rilwan</h1>
 <h3>UI/UX designer & Front-end Developer<a href="" target="blank"></a></h3>
