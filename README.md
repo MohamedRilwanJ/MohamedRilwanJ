@@ -35,5 +35,5 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,figma,react,java,mysql&theme=light" alt="Tech Stack Icons"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma,react,java,mysql,netlify,vercel&theme=light" alt="Tech Stack Icons"/>
 </p>
