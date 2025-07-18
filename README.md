@@ -52,15 +52,3 @@
 	<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" height="30" /></a>
 	<a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" height="30" /></a>
 </p>
-
-<details><summary>GitHub Stats</summary>
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=felipeelia&show_icons=true&theme=dark&locale=en" alt="felipeelia" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipeelia&theme=dark" alt="felipeelia" /> |
-| :---: | :---: |
-
-| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeelia&show_icons=true&theme=dark&locale=en&layout=compact" alt="felipeelia" /> |
-| :---: |
-
-</details><br><br>
-
-<p align="center"><a href="https://ko-fi.com/felipeelia"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="felipeelia" /></a></p>
