@@ -8,7 +8,6 @@
 - 📫 How to reach me **mohamedrilwanjamees@gmail.com**
 - ⚡ Fun fact **[ I ❤️ Travelling ]**
 
-### Blogs posts
 <h3 align="left">Connect with me:</h3>
 <p align="center" style="display: flex; align-items:center;justify-content: center; gap: 10px; flex-wrap: wrap;">
   <!-- LinkedIn -->
@@ -31,7 +30,7 @@
   </a>
 
 </p>
-<h1> 🛠️ Tech Stack</h1>
+<h3> 🛠️ Tech Stack</h3>
 <p align="center" style="display: flex; justify-content: center; gap: 12px;">
   <img src="https://skillicons.dev/icons?i=html&theme=light" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=css&theme=light" alt="CSS" />
