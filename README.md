@@ -1,23 +1,15 @@
 
 <h1>Hi 👋, I'm Mohamed Rilwan</h1>
-<h3>UI/UX designer & Front-end Developer<a href="https://10up.com/" target="blank">@10up</a></h3>
+<h3>UI/UX designer & Front-end Developer<a href="" target="blank"></a></h3>
 
-- 🔭 I’m currently working on [ElasticPress](https://github.com/10up/ElasticPress/)
-- 👯 I’m looking to collaborate on [WordPress](https://github.com/WordPress/wordpress-develop/)
-- 🤝 I’m looking for help with [Contact Form 7 - Repeatable Fields](https://github.com/felipeelia/cf7-repeatable-fields)
-- 📝 I regularly write articles on [https://felipeelia.dev/](https://felipeelia.dev/)
-- 💬 Ask me about **WordPress, PHP, and Career**
-- 📫 How to reach me **https://felipeelia.dev/contact/**
-- ⚡ Fun fact **[I ❤️ 🎮](https://www.exophase.com/user/JediDeChinelo/)**
+- 🔭 I’m currently working on React.
+- 👯 I’m looking to collaborate with live projects.
+- 💬 Ask me about **Java, Figma, React and Tailwind CSS**
+- 📫 How to reach me **mohamedrilwanjamees@gmail.com**
+- ⚡ Fun fact **[I ❤️ 🎮]**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Improve your code with Early Return](https://felipeelia.com/improve-your-code-with-early-return/)
-- [WP.org – Google Translate Browser Extension](https://felipeelia.com/wp-org-google-translate-browser-extension/)
-- [Scrum: ScrumMaster and Product Owner – Courses and Certification](https://felipeelia.com/scrum-scrummaster-and-product-owner-courses-and-certification/)
-- [2023 Reading List – Book and Graphic Novel Recommendations](https://felipeelia.com/2023-reading-list-book-and-graphic-novel-recommendations/)
-- [WordPress São Paulo – Super Meetup 2023](https://felipeelia.com/wordpress-sao-paulo-super-meetup-2023-en/)
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
