@@ -1,7 +1,7 @@
 <!-- Animated Header -->
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=%20Rillu&fontColor=FFFFFF&animation=slideIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=%20Maestro&fontColor=FFFFFF&animation=slideIn" alt="header"/>
 </p>
 
 
