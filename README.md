@@ -1,7 +1,7 @@
 
 <h1>Hi 👋, I'm Mohamed Rilwan</h1>
 <h3>UI/UX designer & Front-end Developer<a href="" target="blank"></a></h3>
-<h4>My Tech Partner: <a href="https://github.com/niranjan20rc"><h3>Niranjan<h3></a></h4>
+<h4>My Tech Partner: <a href="https://github.com/niranjan20rc"><span>Niranjan<span></a></h4>
 - 🔭 I’m currently working on React.
 - 👯 I’m looking to collaborate with live projects.
 - 💬 Ask me about **Java, Figma, React and Tailwind CSS**
