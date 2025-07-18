@@ -10,18 +10,31 @@
 
 ### Blogs posts
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-	<a href="https://www.linkedin.com/in/jmohamedrilwan/" target="blank">
-		</a> &nbsp;
-	<a href="[https://instagram.com/felipe.elia](https://www.instagram.com/_____.rillu._?igsh=MWhrN2QzZXQzc3hkNw==)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="felipe.elia" height="30" /></a>&nbsp;
-	<a href="https://www.youtube.com/c/felipeeliawp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="felipeeliawp" height="30" /></a>&nbsp;
-	<a href="https://leetcode.com/u/Mohamed_Rilwan_J/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="Mohamed Rilwan | LeetCode" height="30" />
-</a>&nbsp;
-	<a href="https://www.hackerrank.com/profile/mdrilwan944" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" alt="Mohamed Rilwan | HackerRank" height="30" />
-</a>&nbsp;
+<p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/jmohamedrilwan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
+  </a>
 
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/Mohamed_Rilwan_J/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Visit-orange?logo=leetcode&style=for-the-badge" alt="LeetCode" />
+  </a>
+
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/profile/mdrilwan944" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=hackerrank&style=for-the-badge" alt="HackerRank" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/_____.rillu._?igsh=MWhrN2QzZXQzc3hkNw==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&style=for-the-badge" alt="Instagram" />
+  </a>
+
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/c/felipeeliawp" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?logo=youtube&style=for-the-badge" alt="YouTube" />
+  </a>
 </p>
 
 
