@@ -6,18 +6,23 @@
 - 👯 I’m looking to collaborate with live projects.
 - 💬 Ask me about **Java, Figma, React and Tailwind CSS**
 - 📫 How to reach me **mohamedrilwanjamees@gmail.com**
-- ⚡ Fun fact **[I ❤️ 🎮]**
+- ⚡ Fun fact **[ I ❤️ Travelling ]**
 
 ### Blogs posts
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-	<a href="https://twitter.com/felipe_elia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="felipe_elia" height="30" /></a>&nbsp;
-	<a href="https://linkedin.com/in/felipeelia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipeelia" height="30" /></a> &nbsp;
-	<a href="https://fb.com/felipe.elia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="felipe.elia" height="30" /></a>&nbsp;
-	<a href="https://instagram.com/felipe.elia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="felipe.elia" height="30" /></a>&nbsp;
+	<a href="https://www.linkedin.com/in/jmohamedrilwan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipeelia" height="30" /></a> &nbsp;
+	<a href="[https://instagram.com/felipe.elia](https://www.instagram.com/_____.rillu._?igsh=MWhrN2QzZXQzc3hkNw==)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="felipe.elia" height="30" /></a>&nbsp;
 	<a href="https://www.youtube.com/c/felipeeliawp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="felipeeliawp" height="30" /></a>&nbsp;
+	<a href="https://leetcode.com/u/Mohamed_Rilwan_J/" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="Mohamed Rilwan | LeetCode" height="30" />
+</a>&nbsp;
+	<a href="https://www.hackerrank.com/profile/mdrilwan944" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" alt="Mohamed Rilwan | HackerRank" height="30" />
+</a>&nbsp;
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
