@@ -30,10 +30,7 @@
     <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=hackerrank&style=for-the-badge" alt="HackerRank" />
   </a>
 
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/_____.rillu._?igsh=MWhrN2QzZXQzc3hkNw==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&style=for-the-badge" alt="Instagram" />
-  </a>
+  
 
 </p>
 <h3> 🛠️ Tech Stack</h3>
